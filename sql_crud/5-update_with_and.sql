@@ -1,3 +1,3 @@
 Update books
-Set price *= 0.9
+Set price = price * 0.9
 Where genre = 'Tech' and stock > 5;
