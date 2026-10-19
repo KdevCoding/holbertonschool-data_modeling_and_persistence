@@ -1,3 +1,3 @@
-Select genre, Count(stock)
+Select genre, Sum(stock)
 From books
 Group By genre
