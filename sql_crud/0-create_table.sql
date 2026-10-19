@@ -1,9 +1,9 @@
-CREATE TABLE Books (
-  BookID int PRIMARY KEY,
-  Title varchar(255) NOT NULL,
-  Author varchar(255) NOT NULL,
-  Genre varchar(255),
-  Price real,
-  Stock int,
-  Published_year int NOT NULL
+CREATE TABLE books (
+  id int PRIMARY KEY,
+  title varchar(255) NOT NULL,
+  author varchar(255) NOT NULL,
+  genre varchar(255),
+  price real,
+  stock int,
+  published_year int NOT NULL
 );
