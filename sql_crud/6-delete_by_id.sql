@@ -1,0 +1,1 @@
+Delete From books Where id = 8;

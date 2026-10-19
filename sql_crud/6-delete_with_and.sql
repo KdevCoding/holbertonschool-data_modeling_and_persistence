@@ -1,0 +1,1 @@
+Delete From books Where published_year < 1950 And price < 9;
